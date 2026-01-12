@@ -23,4 +23,4 @@ void deleteNextK(Node* head, int m, int k) {
 
     // Step 3: Reconnect the remaining list
     curr->next = temp;
-}
+}//HELLO
